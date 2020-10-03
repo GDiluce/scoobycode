@@ -1,0 +1,48 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
+
+ class scooby-doo {
+   
+   constructor(gang){
+     const{Shaggy, Velma, Fred, Daphne} = gang
+     this.name = 'shanggy';
+     this.name = 'Velma';
+     this.name = 'Fred';
+     this.name = 'Daphne';
+     this.gang = [ Shaggy, Velma,Fred, Daphne];
+     this.mystery = 'solve';
+     this.kids = 'meddling';
+   }
+   
+   bestfriend(){
+     Shaggy(6,1);
+     
+     if(danger>courage){
+       danger=scoobySnack
+   }else{
+     (danger<courage);
+     danger=scoobySnackHit
+     
+     Function setup(scoobySnackHit)
+       frameRate(calmer);
+       rectMode(center);
+     }
+     
+   }
+   
+   function dangerMore(){
+     Loop(scoobySnack);
+   }
+   
+   Function mysterySolve(){
+     noLoop(scoobySnack);
+   }
+   
+     
+     
+ }
